@@ -1,2 +1,3 @@
-# Captn.builtScriptz.
-Self built-scriptz for my projects...
+<style>
+:root{background : orange; text-align : center;}
+</style>
